@@ -9,7 +9,7 @@ The list of tech refreshers and projects I created while studying the complete C
 3. [Git](https://github.com/shantdashjian/git-refresher)
 4. [Project: Bookbot](https://github.com/shantdashjian/bookbot)
 5. [OOP](https://github.com/shantdashjian/oop-refresher)
-6. [Project: Asteroids](https://github.com/shantdashjian/asteroids
+6. [Project: Asteroids](https://github.com/shantdashjian/asteroids)
 7. [FP](https://github.com/shantdashjian/fp-refresher)
 8. [Project: Static Site Generator](https://github.com/shantdashjian/static-site-generator) 
 
